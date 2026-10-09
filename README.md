@@ -14,4 +14,7 @@ A function execution engine with content-addressed caching and rich interactive 
 - **Preprint:** An accompanying paper describing the mathematical execution model and content-addressing semantics is currently in preparation for arXiv.
 
 ## License
-Governed by the [Mozilla Public License v2.0](LICENSE).
+
+This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 - David A. Tanzer / Signal Beat Lab
